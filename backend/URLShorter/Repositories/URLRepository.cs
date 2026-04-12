@@ -20,7 +20,7 @@ namespace URLShorter.Repositories
             {
                 link.Id = Guid.NewGuid();
                 link.CreatedAt = DateTime.UtcNow;
-                link.ShortUrl = _shortCodeGenerator.Generate(7).ToLower();
+                link.ShortUrl = _shortCodeGenerator.Generate(7);   //возвращаем код, присваиваем
             }
             await _context.links.AddAsync(link, ct);
             await _context.SaveChangesAsync(ct);
@@ -60,7 +60,7 @@ namespace URLShorter.Repositories
             {
                 return null;
             }
-            var existing = await _context.links.FirstOrDefaultAsync(e => e.Id == link.Id, ct);
+            var existing = await _context.links.FirstOrDefaultAsync(e => e.Id == link.Id, ct); // можно исключить на случай если нужно будет менять ещё что-то
             if (existing == null)
             {
                 return null;

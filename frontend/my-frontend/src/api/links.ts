@@ -1,4 +1,4 @@
-import type { LinkResponse, CreateLinkRequest, UpdateUrlRequest } from '../types/link.ts';
+import type { LinkResponse, CreateLinkRequest} from '../types/link.ts';
 
 const BASE_URL = 'http://localhost:5196/Link';
 

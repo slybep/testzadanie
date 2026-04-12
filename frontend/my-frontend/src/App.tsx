@@ -44,7 +44,6 @@ function App() {
       await createLink({ url: newUrl });
       setNewUrl('');
       await loadLinks();
-      // Если после добавления текущая страница не содержит новых элементов, можно остаться на ней.
     } catch (err) {
       alert('Ошибка создания');
     } finally {
@@ -57,7 +56,6 @@ function App() {
     try {
       await deleteLink(id);
       await loadLinks();
-      // Если после удаления текущая страница оказалась пустой, переключаем на предыдущую
       const totalAfterDelete = links.length - 1;
       const maxPage = Math.ceil(totalAfterDelete / pageSize);
       if (currentPage > maxPage && maxPage > 0) setCurrentPage(maxPage);
@@ -78,6 +76,18 @@ function App() {
     }
   };
 
+  // Форматирование даты
+  const formatDate = (date: string | Date) => {
+    const d = new Date(date);
+    return d.toLocaleString('ru-RU', {
+      day: '2-digit',
+      month: '2-digit',
+      year: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit'
+    });
+  };
+
   // Пагинация на клиенте
   const totalPages = Math.ceil(links.length / pageSize);
   const paginatedLinks = links.slice((currentPage - 1) * pageSize, currentPage * pageSize);
@@ -85,6 +95,7 @@ function App() {
   const goToPage = (page: number) => {
     setCurrentPage(Math.min(Math.max(1, page), totalPages));
   };
+  
   const BACKEND_BASE = 'http://localhost:5196'
   
   const getShortUrl = (shortUrl: string) => {
@@ -92,7 +103,7 @@ function App() {
   };
 
   return (
-    <div className="container mx-auto p-4 max-w-4xl">
+    <div className="container mx-auto p-4 max-w-6xl">
       <h1 className="text-3xl font-bold mb-6">Сокращатель ссылок</h1>
 
       {/* Форма добавления */}
@@ -126,6 +137,7 @@ function App() {
                   <th className="px-4 py-2 border">Оригинальный URL</th>
                   <th className="px-4 py-2 border">Короткая ссылка</th>
                   <th className="px-4 py-2 border">Кликов</th>
+                  <th className="px-4 py-2 border">Дата создания</th>
                   <th className="px-4 py-2 border">Действия</th>
                 </tr>
               </thead>
@@ -153,6 +165,9 @@ function App() {
                       </a>
                     </td>
                     <td className="px-4 py-2 border text-center">{link.countClick}</td>
+                    <td className="px-4 py-2 border text-sm whitespace-nowrap">
+                      {link.createdAt && formatDate(link.createdAt)}
+                    </td>
                     <td className="px-4 py-2 border whitespace-nowrap">
                       {editingId === link.id ? (
                         <>
@@ -193,7 +208,7 @@ function App() {
                 ))}
                 {paginatedLinks.length === 0 && (
                   <tr>
-                    <td colSpan={4} className="text-center py-6 text-gray-500">
+                    <td colSpan={5} className="text-center py-6 text-gray-500">
                       Нет ссылок. Создайте первую!
                     </td>
                   </tr>

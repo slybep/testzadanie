@@ -19,7 +19,6 @@ builder.Services.AddDbContext<URLShorterDbContext>(options =>
 
 
 builder.Services.AddScoped<ShortCodeGenerator>();
-builder.Services.AddScoped(typeof(GenericRepository<>));
 builder.Services.AddScoped<IURLRepository, URLRepository>();
 builder.Services.AddScoped<IURLServices, URLServices>();
 
@@ -36,7 +35,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp", policy =>
     {
-        policy.WithOrigins("http://localhost:5173")
+        policy.WithOrigins("http://localhost:5173")  //CORS FRONTEND
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
@@ -46,7 +45,7 @@ var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
 {
-    var dbContext = scope.ServiceProvider.GetRequiredService<URLShorterDbContext>();
+    var dbContext = scope.ServiceProvider.GetRequiredService<URLShorterDbContext>(); //Авто-миграции в случае отсутвия бд 
     await dbContext.Database.MigrateAsync();
 }
 // Configure the HTTP request pipeline.

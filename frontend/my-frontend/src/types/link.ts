@@ -3,6 +3,7 @@ export interface LinkResponse {
   shortUrl: string;
   url: string;
   countClick: number;
+  createdAt: string | Date; 
 }
 
 export interface CreateLinkRequest {

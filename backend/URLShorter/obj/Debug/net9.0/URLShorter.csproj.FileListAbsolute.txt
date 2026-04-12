@@ -288,3 +288,11 @@ C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\obj\Debug\net9.0\refint\U
 C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\obj\Debug\net9.0\URLShorter.pdb
 C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\obj\Debug\net9.0\URLShorter.genruntimeconfig.cache
 C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\obj\Debug\net9.0\ref\URLShorter.dll
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\obj\Debug\net9.0\URLShorter.sourcelink.json
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\bin\Debug\net9.0\FluentAssertions.dll
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\bin\Debug\net9.0\Moq.dll
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\bin\Debug\net9.0\xunit.assert.dll
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\bin\Debug\net9.0\xunit.core.dll
+C:\Users\PC\Desktop\test\URLShorter\backend\URLShorter\bin\Debug\net9.0\xunit.execution.dotnet.dll
