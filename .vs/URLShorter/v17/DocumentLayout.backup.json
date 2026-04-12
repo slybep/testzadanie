@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\dto\\createlinkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\dto\\createlinkresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\dto\\createlinkrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\dto\\createlinkrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\dto\\linksfilterrequset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\dto\\linksfilterrequset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\dto\\updateurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\dto\\updateurlrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\models\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\models\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\repositories\\urlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\repositories\\urlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\serivces\\urlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\serivces\\urlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\controllers\\linkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\controllers\\linkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\urlshorterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\urlshorterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\repositories\\shortcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\repositories\\shortcodegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\dto\\validators\\updateurlrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\dto\\validators\\updateurlrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\dto\\validators\\createlinkrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\dto\\validators\\createlinkrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\abstractions\\iurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\abstractions\\iurlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\migrations\\20260411193003_initiall.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\migrations\\20260411193003_initiall.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\migrations\\20260411193003_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\migrations\\20260411193003_initiall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\abstractions\\iurlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\abstractions\\iurlservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\urlshorter.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\urlshorter.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\abstractions\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\abstractions\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|c:\\users\\pc\\desktop\\test\\urlshorter\\urlshorter\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0731D55B-2CEE-4B7C-939E-D55A09212198}|URLShorter\\URLShorter.csproj|solutionrelative:urlshorter\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinksFilterRequset.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\LinksFilterRequset.cs",
+              "RelativeDocumentMoniker": "URLShorter\\DTO\\LinksFilterRequset.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\LinksFilterRequset.cs",
+              "RelativeToolTip": "URLShorter\\DTO\\LinksFilterRequset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:22:22.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "URLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Repositories\\URLRepository.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Repositories\\URLRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Repositories\\URLRepository.cs",
+              "RelativeToolTip": "URLShorter\\Repositories\\URLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:16:31.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "URLShorter\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:16:30.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Link.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Models\\Link.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Models\\Link.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Models\\Link.cs",
+              "RelativeToolTip": "URLShorter\\Models\\Link.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:50:34.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUrlRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\UpdateUrlRequest.cs",
+              "RelativeDocumentMoniker": "URLShorter\\DTO\\UpdateUrlRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\UpdateUrlRequest.cs",
+              "RelativeToolTip": "URLShorter\\DTO\\UpdateUrlRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:13:34.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateLinkResponse.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\CreateLinkResponse.cs",
+              "RelativeDocumentMoniker": "URLShorter\\DTO\\CreateLinkResponse.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\CreateLinkResponse.cs",
+              "RelativeToolTip": "URLShorter\\DTO\\CreateLinkResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:00:03.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateLinkRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\CreateLinkRequest.cs",
+              "RelativeDocumentMoniker": "URLShorter\\DTO\\CreateLinkRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\CreateLinkRequest.cs",
+              "RelativeToolTip": "URLShorter\\DTO\\CreateLinkRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:55:52.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "URLServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Serivces\\URLServices.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Serivces\\URLServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Serivces\\URLServices.cs",
+              "RelativeToolTip": "URLShorter\\Serivces\\URLServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T17:56:37.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Program.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Program.cs",
+              "RelativeToolTip": "URLShorter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T13:49:03.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LinkController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Controllers\\LinkController.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Controllers\\LinkController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Controllers\\LinkController.cs*",
+              "RelativeToolTip": "URLShorter\\Controllers\\LinkController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:02:47.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "URLShorterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\URLShorterDbContext.cs",
+              "RelativeDocumentMoniker": "URLShorter\\URLShorterDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\URLShorterDbContext.cs",
+              "RelativeToolTip": "URLShorter\\URLShorterDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T14:50:14.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShortCodeGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Repositories\\ShortCodeGenerator.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Repositories\\ShortCodeGenerator.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Repositories\\ShortCodeGenerator.cs",
+              "RelativeToolTip": "URLShorter\\Repositories\\ShortCodeGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:16:29.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\docker-compose.yml",
+              "RelativeDocumentMoniker": "URLShorter\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\docker-compose.yml",
+              "RelativeToolTip": "URLShorter\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-04-11T18:27:46.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateURLRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\Validators\\UpdateURLRequestValidator.cs",
+              "RelativeDocumentMoniker": "URLShorter\\DTO\\Validators\\UpdateURLRequestValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\Validators\\UpdateURLRequestValidator.cs",
+              "RelativeToolTip": "URLShorter\\DTO\\Validators\\UpdateURLRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:18:43.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateLinkRequestValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\Validators\\CreateLinkRequestValidator.cs",
+              "RelativeDocumentMoniker": "URLShorter\\DTO\\Validators\\CreateLinkRequestValidator.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\DTO\\Validators\\CreateLinkRequestValidator.cs",
+              "RelativeToolTip": "URLShorter\\DTO\\Validators\\CreateLinkRequestValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:01:47.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IURLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IURLRepository.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Abstractions\\IURLRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IURLRepository.cs",
+              "RelativeToolTip": "URLShorter\\Abstractions\\IURLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:16:05.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260411193003_initiall.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Migrations\\20260411193003_initiall.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Migrations\\20260411193003_initiall.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Migrations\\20260411193003_initiall.cs",
+              "RelativeToolTip": "URLShorter\\Migrations\\20260411193003_initiall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:12:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20260411193003_initiall.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Migrations\\20260411193003_initiall.Designer.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Migrations\\20260411193003_initiall.Designer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Migrations\\20260411193003_initiall.Designer.cs",
+              "RelativeToolTip": "URLShorter\\Migrations\\20260411193003_initiall.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T23:12:59.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\appsettings.json",
+              "RelativeDocumentMoniker": "URLShorter\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\appsettings.json",
+              "RelativeToolTip": "URLShorter\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-11T19:01:06.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IURLServices.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IURLServices.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Abstractions\\IURLServices.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IURLServices.cs",
+              "RelativeToolTip": "URLShorter\\Abstractions\\IURLServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T18:15:30.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "URLShorter.http",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\URLShorter.http",
+              "RelativeDocumentMoniker": "URLShorter\\URLShorter.http",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\URLShorter.http",
+              "RelativeToolTip": "URLShorter\\URLShorter.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-11T19:40:36.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "URLShorter\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:34:16.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IDocument.cs",
+              "RelativeDocumentMoniker": "URLShorter\\Abstractions\\IDocument.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Abstractions\\IDocument.cs",
+              "RelativeToolTip": "URLShorter\\Abstractions\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T19:34:26.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Dockerfile",
+              "RelativeDocumentMoniker": "URLShorter\\Dockerfile",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\test\\URLShorter\\URLShorter\\Dockerfile",
+              "RelativeToolTip": "URLShorter\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-11T18:38:29.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

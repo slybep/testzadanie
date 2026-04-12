@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "vite": "^8.0.8",
+    "vite-tsconfig-paths": "^6.1.1"
+  }
+}
