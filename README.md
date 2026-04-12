@@ -1,7 +1,7 @@
 - Первым делом запустить BACKEND. 
 - Миграции создаются автоматически / можно использовать docker-compose
 - Запуск Backend(нажать кнопку запустить, проверить порты в консоли и в frontend) 
-- В консоли проекта(перейти в папку frontend/My-frontend) npm run dev (по адресу http://localhost:5173) 
+- В корне проекта(перейти в папку frontend/My-frontend) npm run dev (по адресу http://localhost:5173) 
 - Возможно нужно будет установить tailwindcss (npm install tailwindcss)
 
 1. Получить список всех ссылок
